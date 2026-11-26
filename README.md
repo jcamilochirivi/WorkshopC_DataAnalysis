@@ -4,16 +4,6 @@ This project studies how experience, job characteristics, reported technologies 
 
 The solution is in `notebooks/WorkshopC.ipynb`. All code uses Python classes, and the explanations are written in simple English. The notebook contains its own package setup, results, discussions and a seven-minute presentation guide.
 
-## Team
-
-| Team member | Student ID |
-|---|---|
-| [Add name] | [Add ID] |
-| [Add name] | [Add ID] |
-| [Add name] | [Add ID] |
-| [Add name] | [Add ID] |
-
-**GitHub repository:** [Add repository URL]
 
 ## Project files
 
@@ -130,11 +120,3 @@ The exact results above use the uploaded input files and displayed settings. Dif
 - Country indicators repeat across respondents. The random holdout tests respondents in a similar country mix, not unseen countries, and ordinary OLS independence assumptions are limited.
 - Related predictors can share information. Backward selection and coefficients may change across samples.
 - The model is not validated for individual salary decisions or fairness across demographic groups.
-
-## Presentation and submission
-
-Section 12 of the notebook gives a **seven-minute presentation plan**. Focus on the question, preparation, split, two simple models, final multiple model, validation and limitations. Everyone should still understand the classes and be able to change the code.
-
-Fill in all team details and the repository link. Run all cells, save the outputs and submit the **same `.ipynb` you will present**, without zipping it. Include the GitHub repository link and complete each member's separate feedback submission.
-
-The assignment asks for the term-project dataset to be augmented. This solution uses the salary topic chosen for this workshop. If changing the project dataset needs instructor agreement, address that course requirement before submission.
